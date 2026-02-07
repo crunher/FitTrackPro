@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitTrack Pro</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Start</string>
+    <string name="nav_exercises">Ćwiczenia</string>
+    <string name="nav_routines">Rutyny</string>
+    <string name="nav_stats">Statystyki</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Common -->
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="search">Szukaj</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="error">Błąd</string>
+    <string name="retry">Ponów</string>
+    
+    <!-- Workout -->
+    <string name="start_workout">Rozpocznij Trening</string>
+    <string name="finish_workout">Zakończ Trening</string>
+    <string name="rest_timer">Czas Przerwy</string>
+    <string name="set">Seria</string>
+    <string name="reps">Powtórzenia</string>
+    <string name="weight">Ciężar</string>
+    <string name="kg">kg</string>
+    <string name="warmup">Rozgrzewka</string>
+    <string name="working_set">Seria Robocza</string>
+    <string name="to_failure">Do Upadku</string>
+    
+    <!-- Exercises -->
+    <string name="all_muscles">Wszystkie Mięśnie</string>
+    <string name="create_exercise">Utwórz Ćwiczenie</string>
+    <string name="exercise_name">Nazwa Ćwiczenia</string>
+    <string name="exercise_description">Opis</string>
+    
+    <!-- Routines -->
+    <string name="create_routine">Utwórz Rutynę</string>
+    <string name="routine_name">Nazwa Rutyny</string>
+    <string name="add_exercises">Dodaj Ćwiczenia</string>
+    <string name="no_routines">Brak rutyn</string>
+    
+    <!-- Muscle Groups -->
+    <string name="muscle_chest">Klatka Piersiowa</string>
+    <string name="muscle_back">Plecy</string>
+    <string name="muscle_shoulders">Barki</string>
+    <string name="muscle_biceps">Biceps</string>
+    <string name="muscle_triceps">Triceps</string>
+    <string name="muscle_forearms">Przedramiona</string>
+    <string name="muscle_abs">Brzuch</string>
+    <string name="muscle_quads">Czworogłowy Uda</string>
+    <string name="muscle_hamstrings">Dwugłowy Uda</string>
+    <string name="muscle_glutes">Pośladki</string>
+    <string name="muscle_calves">Łydki</string>
+    <string name="muscle_core">Core</string>
+    <string name="muscle_full_body">Całe Ciało</string>
+    <string name="muscle_cardio">Kardio</string>
+</resources>

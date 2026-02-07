@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitTrack Pro</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_exercises">Exercises</string>
+    <string name="nav_routines">Routines</string>
+    <string name="nav_stats">Statistics</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Workout -->
+    <string name="start_workout">Start Workout</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="rest_timer">Rest Timer</string>
+    <string name="set">Set</string>
+    <string name="reps">Reps</string>
+    <string name="weight">Weight</string>
+    <string name="kg">kg</string>
+    <string name="warmup">Warmup</string>
+    <string name="working_set">Working Set</string>
+    <string name="to_failure">To Failure</string>
+    
+    <!-- Exercises -->
+    <string name="all_muscles">All Muscles</string>
+    <string name="create_exercise">Create Exercise</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="exercise_description">Description</string>
+    
+    <!-- Routines -->
+    <string name="create_routine">Create Routine</string>
+    <string name="routine_name">Routine Name</string>
+    <string name="add_exercises">Add Exercises</string>
+    <string name="no_routines">No routines yet</string>
+    
+    <!-- Muscle Groups -->
+    <string name="muscle_chest">Chest</string>
+    <string name="muscle_back">Back</string>
+    <string name="muscle_shoulders">Shoulders</string>
+    <string name="muscle_biceps">Biceps</string>
+    <string name="muscle_triceps">Triceps</string>
+    <string name="muscle_forearms">Forearms</string>
+    <string name="muscle_abs">Abs</string>
+    <string name="muscle_quads">Quadriceps</string>
+    <string name="muscle_hamstrings">Hamstrings</string>
+    <string name="muscle_glutes">Glutes</string>
+    <string name="muscle_calves">Calves</string>
+    <string name="muscle_core">Core</string>
+    <string name="muscle_full_body">Full Body</string>
+    <string name="muscle_cardio">Cardio</string>
+</resources>
